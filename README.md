@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Maou-Nightmare
-- 👀 I’m interested in Discord Bot Developing and Website Developing
+- 👋 Hi, I’m @Mugen-Master
+- 👀 I’m interested in Discord Bot Developing and Website Developing aswell as MUGEN/Ikemen Go
 - 🌱 I’m currently learning python3 and javascript
 - 💞️ I’m looking to collaborate on Bot Developing sometime..
 - 📫 How to reach me - https://just-a-person.carrd.co/
